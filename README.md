@@ -1,4 +1,4 @@
-gitclone https://github.com/srujanvannala/interactive-sales-dash-board.git
+git clone https://github.com/srujanvannala/interactive-sales-dash-board.git
 
 cd interactive-sales-dash-board
 
